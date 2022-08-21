@@ -1,0 +1,12 @@
+html,
+body {
+  font-size: 16px;
+}
+
+.app {
+  background-color: #f1f2f5;
+}
+
+.app__body {
+  display: flex;
+}
