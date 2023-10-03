@@ -231,4 +231,5 @@ npm install -g firebase-tools
 firebase login
 firebase init
 firebase deploy
-
+----
+node-inspector could save the day! ==== npm install -g node-inspector ==== then run: ==node-debug app.js
